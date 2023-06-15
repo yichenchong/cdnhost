@@ -1,15 +1,1 @@
-﻿
-			<svg width="200" height="1000" viewBox="0 0 200 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
-				<rect width="200" height="1000" fill="url(#gradient-fill)"/>
-				<defs>
-					<linearGradient id="gradient-fill" x1="0" y1="0" x2="200" y2="0" gradientUnits="userSpaceOnUse">
-						
-							<stop offset="0" stop-color="#7eaae0" />
-						
-							<stop offset="0.25285714285714285" stop-color="#5ba9e6" />
-						
-							<stop offset="1" stop-color="#d29ed8" />
-						
-					</linearGradient>
-				</defs>
-			</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="1000" fill="none" viewBox="0 0 200 1000"><rect width="200" height="1000" fill="url(#gradient-fill)"/><defs><linearGradient id="gradient-fill" x1="0" x2="200" y1="0" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#7eaae0"/><stop offset=".253" stop-color="#5ba9e6"/><stop offset="1" stop-color="#d29ed8"/></linearGradient></defs></svg>
